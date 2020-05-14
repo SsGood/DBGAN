@@ -12,7 +12,7 @@ This code contains two versions of the hyper-parameters. The first one is the im
 * networkx
 * scikit-learn
 * scipy
-* dppy
+* dppy==0.2.0
 * munkres
 
 ## Run from
