@@ -36,3 +36,18 @@ If you want to use your own data, you have to provide
 Have a look at the `load_data()` function in `input_data.py` for an example.
 
 In this example, we load citation network data (Cora, Citeseer or Pubmed). The original datasets can be found here: http://linqs.cs.umd.edu/projects/projects/lbc/ and here (in a different format): https://github.com/kimiyoung/planetoid
+
+
+## Cite
+
+Please cite following papers if you use this code in your own work:
+
+```
+@inproceedings{zheng2020distribution,
+  title={Distribution-induced bidirectional generative adversarial network for graph representation learning},
+  author={Zheng, Shuai and Zhu, Zhenfeng and Zhang, Xingxing and Liu, Zhizhe and Cheng, Jian and Zhao, Yao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7224--7233},
+  year={2020}
+}
+```
